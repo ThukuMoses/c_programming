@@ -13,7 +13,7 @@ int main(){
 	scanf("%d",&Customer_ID);
 	
 	printf("Enter customer Name: ");
-	scanf("%s",Name);
+	scanf(" %[^\n]",Name);
 	
 	printf("Enter Units consumed: ");
 	scanf("%d",&Units_Consumed);
