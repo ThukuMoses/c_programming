@@ -1,4 +1,4 @@
-/*program to calculate and display elecric bill for customers
+/*program for handling file operation in c
 Author: Thuku Moses
 Date 30/10/2024
 */
