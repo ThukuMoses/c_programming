@@ -1,4 +1,4 @@
-/*program to calculate and display elecric bill for customers
+/*program to display 2d arrays
 Author: Thuku Moses
 Date 12/10/2024
 */
