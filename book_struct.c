@@ -1,4 +1,4 @@
-/*program to calculate and display elecric bill for customers
+/*program to print book details 
 Author: Thuku Moses
 Date 21/10/2024
 */
