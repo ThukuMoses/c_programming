@@ -1,4 +1,4 @@
-/*program to print the numbers in the while loop
+/*program to print the numbers in the forloop
 Author: Thuku Moses
 Date 6/10/2024
 */
