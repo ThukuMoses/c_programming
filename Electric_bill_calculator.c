@@ -1,4 +1,4 @@
-/*program to calculate and display elecric bill for customers
+/*program to calculate and display electric bill for customers
 Author: Thuku Moses
 Date 6/10/2024
 */
